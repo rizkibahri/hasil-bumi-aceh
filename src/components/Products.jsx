@@ -32,24 +32,25 @@ const volumeProducts = [
     name: "Jagung",
     image: "/assets/jagung.jpg",
     description:
-      "Jagung pipilan utuh atau jagung giling berkualitas dari Aceh. Suplai ±50 ton/bulan.",
+      "Jagung pipilan utuh atau jagung giling berkualitas dan bermutu dari Aceh dengan kadar air yang rendah, dengan memalui proses pengeringan yang sesuai standar. Kami tidak hanya menjaga kualitas dan mutu, tetapi juga konsisten dari segi kuantitasnya. Kami mampu memasok ±50 ton per-bulannya. Kami siap memenuhi kebutuhan pasar secara berkelanjutan.",
   },
   {
     name: "Kemiri",
     image: "/assets/kemiri-aceh.png",
     description:
-      "Kemiri utuh dan kulit dengan kadar air optimal. Suplai 50–70 ton/bulan.",
+      "Kemiri adalah salah satu hasil bumi terbesar di Aceh, dan ini menjadi komoditas utama kami. Dengan proses pengeringan yang terkontrol, baik melalui blower maupun penjemuran alami di bawah sinar matahari, dilakukan untuk mencapai kadar air yang optimal. Untuk kemiri utuh(hitam) kami mampu memasoknya kurang lebih 50-70 tons per-bulannya, dan untuk kulitnya kami mampu -50 ton per-bulannya.",
   },
   {
     name: "Kelapa",
     image: "/assets/kelapa.jpg",
-    description: "Kelapa segar, kupas, dan tempurung. Suplai 20–60 ton/bulan.",
+    description:
+      "Kelapa segar & kering untuk kebutuhan industri pangan & minyak. Dari sisi kuantitas kuantitas kami mampu memasok 20-30 tons untuk kelapa muda, dan kelapa kupas 40-60 tons per-bulannya, dan tempurung kelapa kami hanya mampu 10-20 tons per-bulannya.",
   },
   {
-    name: "Biji Kapas",
+    name: "Serat & Biji Kapas",
     image: "/assets/kapas.jpg",
     description:
-      "Serat & biji kapas lokal Aceh untuk tekstil. Suplai 8–10 kontainer/tahun.",
+      "Serat dan biji kapas dari petani lokal Aceh memiliki kualitas yang sesuai untuk kebutuhan tekstil dan industri lainnya. Untuk komoditas ini kapasitas suplai kami 8-10 konteiner per-tahunnya.",
   },
 ];
 
