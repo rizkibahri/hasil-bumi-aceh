@@ -26,16 +26,16 @@ const HeroSection = () => {
         </p>
 
         {/* CTA Buttons */}
-        <div className="mt-8 flex gap-4">
+        <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
           <a
             href="#produk"
-            className="bg-yellow-400 text-green-900 font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-yellow-300 transition"
+            className="bg-yellow-400 text-green-900 font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-yellow-300 transition text-center w-fit"
           >
             Lihat Produk
           </a>
           <a
             href="#kontak"
-            className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-green-800 transition"
+            className="border border-white px-4 py-3 rounded-lg font-semibold hover:bg-white hover:text-green-800 transition text-center w-fit"
           >
             Hubungi Kami
           </a>
